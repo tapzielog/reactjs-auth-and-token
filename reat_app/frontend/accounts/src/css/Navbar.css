@@ -1,0 +1,11 @@
+/* src/navbar.css */
+.navbar-nav {
+    padding: 2px;
+    width: 100%;
+    text-align: center;
+    justify-content: center !important; /* Important to override Bootstrap styles */
+}
+
+.navbar-nav .nav-link {
+    padding: 0 10px;
+}

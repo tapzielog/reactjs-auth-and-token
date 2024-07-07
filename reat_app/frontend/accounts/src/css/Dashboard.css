@@ -1,0 +1,10 @@
+.image-container {
+    width: 1200px; /* Example width */
+    height: 600px; /* Example height */
+    overflow: hidden; /* Ensure the image doesn't overflow the container */
+}
+
+.image-container img {
+    width: 100%; /* Ensure the image fills the container */
+    height: auto; /* Maintain aspect ratio */
+}
